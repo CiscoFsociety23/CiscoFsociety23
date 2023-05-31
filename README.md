@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react js**
 
-- 💬 Ask me about **html, css, python, **
+- 💬 Ask me about **HTML, CSS, Python, NodeJS, Express, MySQL, React, API REST**
 
 - 📫 How to reach me **marcp_figueroa23@outlook.cl**
 
