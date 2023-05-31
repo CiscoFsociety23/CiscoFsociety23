@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, Python, NodeJS, Express, MySQL, React, API REST**
 
-- 📫 How to reach me **marcp_figueroa23@outlook.cl**
+- 📫 How to reach me **marco_figueroa23@outlook.cl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
