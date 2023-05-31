@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Marco Figueroa</h1>
+<h3 align="center">Creador de Dedsec.cl, Programador Jr. Full-Stack</h3>
 
-<!--
-**CiscoFsociety23/CiscoFsociety23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CiscoFsociety23&label=Profile%20views&color=0e75b6&style=flat" alt="CiscoFsociety23" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/CiscoFsociety23" target="blank"><img src="https://img.shields.io/twitter/follow/bautiiii_v?logo=twitter&style=for-the-badge" alt="CiscoFsociety23" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on DEDSEC CORP. (Personal Proyect)
+
+- 🌱 I’m currently learning **react js**
+
+- 💬 Ask me about **html, css, python, **
+
+- 📫 How to reach me **marcp_figueroa23@outlook.cl**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/CiscoFsociety23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CiscoFsociety23" height="30" width="40" /></a>
+</p>
